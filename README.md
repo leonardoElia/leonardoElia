@@ -2,7 +2,10 @@
 ---
 - Tenho 20 anos e moro em São José do Rio Preto/SP.
 - Sou formado em análise e desenvolvimento de sistemas, hardware, informática administrativa e atualmente estou cursando desenvolvimento Web na [Trybe](https://www.betrybe.com/).
-- No meu tempo livre, gosto de jogar, ler livros, assistir filmes e séries.
+- No meu tempo livre, gosto de jogar, ler livros, assistir filmes e séries. <br> <br>
+
+![leonardoElia GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoElia&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoElia&theme=dracula&layout=compact)](https://github.com/leonardoElia/github-readme-stats)
+
 
 <!--
 **leonardoElia/leonardoElia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
