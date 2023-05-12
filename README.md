@@ -1,5 +1,8 @@
 ### Olá, eu sou o leonardo elias
-- Tenho
+---
+- Tenho 20 anos e moro em São José do Rio Preto/SP.
+- Sou formado em análise e desenvolvimento de sistemas, hardware, informática administrativa e atualmente estou cursando desenvolvimento Web na [Trybe](https://www.betrybe.com/).
+- No meu tempo livre, gosto de jogar, ler livros, assistir filmes e séries.
 
 <!--
 **leonardoElia/leonardoElia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
