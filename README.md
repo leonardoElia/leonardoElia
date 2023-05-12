@@ -28,10 +28,13 @@
     <img alt="leonardo-c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
      <img alt="leonardo-linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
  </div>
-
 ![leonardoElia GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoElia&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoElia&theme=dracula&layout=compact)](https://github.com/leonardoElia/github-readme-stats)
-
-
+<br>
+   <h2>minhas redes socias:</h2>
+   <div>
+    <a href="https://www.linkedin.com/in/leonardo-elias-3a9a6b206/"><img alt="leonardo-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/leonardo.elias.meireles/"><img alt="leonardo-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   </div>
 <!--
 **leonardoElia/leonardoElia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
